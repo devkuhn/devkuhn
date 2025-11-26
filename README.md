@@ -30,11 +30,11 @@ Howdy! I'm Fernando, a software developer. Diving into code, enjoying some coffe
 <img src="https://img.shields.io/badge/Xcode-282C34?logo=xcode&logoColor=007ACC" alt="Xcode" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/Visual%20Studio-282C34?logo=visual-studio&logoColor=603b74" alt="Visual Studio" height="25" />&nbsp;
 
+<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" height="25" />&nbsp;
 
 🌱 What I am currently learning / improving on
 ---
 <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/styled-components-282C34?logo=styled-components&logoColor=DB7093" alt="styled-components" height="25" />&nbsp;
 
 
